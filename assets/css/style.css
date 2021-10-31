@@ -1898,7 +1898,7 @@ textarea.form-control::-webkit-input-placeholder,
   .last-name {
     font-size: 70px;
     font-weight: 600;
-    line-height: 0;
+    line-height: 1;
     margin-top: 28px;
     margin-bottom: 28px;
   }
